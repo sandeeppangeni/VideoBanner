@@ -34,3 +34,8 @@ This guide explains how to add a custom video banner section to your Shopify sto
    - Customize the settings and content as needed.
 
 That's it! You've successfully added a custom video banner section to your Shopify store.
+
+**Result:**
+
+![image](https://github.com/sandeeppangeni/VideoBanner/assets/37801127/258f0bfe-4152-4b7c-a9bd-b5dbcd035c25)
+
